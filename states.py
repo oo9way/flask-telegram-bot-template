@@ -1,0 +1,2 @@
+NAME, AGE, GENDER, ADDRESS = range(4)
+END = -1
